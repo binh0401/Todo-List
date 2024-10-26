@@ -1,0 +1,56 @@
+.content{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.body{
+  font-family: Arial;
+}
+.task{
+  width: 180px;
+}
+.date{
+  width: 125px;
+}
+.input{
+  margin-bottom: 20px;
+}
+.addbutton{
+  
+  background-color: rgb(6, 219, 6);
+  border: solid rgb(6, 219, 6);
+  width: 120px;
+  color: white;
+  cursor: pointer;
+  height: 29px;
+  border-radius: 5px;
+}
+.deletebutton{
+  background-color: rgb(136, 30, 0);
+  border: solid rgb(136, 30, 0);
+  width: 120px;
+  color: white;
+  cursor: pointer;
+  height: 29px;
+  border-radius: 5px;
+}
+.js-input-task{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  border: solid;
+  border-width: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-right: 5px;
+}
+.js-input-date{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  border: solid;
+  border-width: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-right: 5px;
+}
+
